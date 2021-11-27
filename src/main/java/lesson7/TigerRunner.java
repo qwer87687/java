@@ -1,7 +1,8 @@
 package lesson7;
 
 public class TigerRunner {
-    public static void main(String[] args) {
+    public static void main(String[] args)
+    {
         Pet tiger = new Pet();
         tiger.name = "ScherKhan";
         tiger.colour = "Striped";

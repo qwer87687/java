@@ -1,7 +1,8 @@
 package lesson7;
 
 public class DogRunner {
-    public static void main(String[] args) {
+    public static void main(String[] args)
+    {
         Pet dog = new Pet();
         dog.name = "Sharik";
         dog.colour = "Black";

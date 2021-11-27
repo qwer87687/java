@@ -1,7 +1,8 @@
 package lesson7;
 
 public class MouseRunner {
-    public static void main(String[] args) {
+    public static void main(String[] args)
+    {
         Pet mouse = new Pet();
         mouse.name = "Lariska";
         mouse.colour = "Gray";
