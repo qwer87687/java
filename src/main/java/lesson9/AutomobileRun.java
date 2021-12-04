@@ -9,7 +9,7 @@ public class AutomobileRun {
                 new Car("Жигули"),
                 new Car("Волга"),
                 new Car("Москвич"),
-                new Car("УАЗ"),
+                new Car("Уаз"),
                 new Car("Запорожец"),
                 new Truck("Камаз"),
                 new Truck("Краз"),
