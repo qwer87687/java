@@ -20,6 +20,7 @@ public class KvdKor {
 
     public static void main(String[] args)
             /* Здесь используется метод "java.util.Scanner"
+            /* Здесь используется метод "java.util.Scanner"
             для того, чтобы пользователь ввел исходное число
             для  вычисления его квадратного корня */ {
         System.out.println("Введите любое целое положительное число: ");

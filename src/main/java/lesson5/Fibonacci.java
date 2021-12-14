@@ -16,7 +16,6 @@ public class Fibonacci {
         else
             return FibonacciValue(x - 1) + FibonacciValue(x - 2);
     }
-
     /* Здесь осуществляется ввод порядкового номера числа Фибонначи в консоли,
     и вывод результата вычисления в консоль
      */
